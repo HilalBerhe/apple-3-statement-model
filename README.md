@@ -53,3 +53,23 @@ The forecast is based on historical averages and model assumptions, including:
 ## Notes
 
 This model was created for learning and portfolio purposes. Forecasts are based on simplified assumptions and should not be interpreted as investment advice.
+
+## Model Preview
+
+### Assumptions
+![Assumptions](screenshots/Assumptions.png)
+
+### Income Statement
+![Income Statement](screenshots/Income%20Statement.png)
+
+### Balance Sheet
+![Balance Sheet](screenshots/Balance%20Sheet.png)
+
+### Cash Flow Statement
+![Cash Flow Statement](screenshots/Cash%20Flow%20Statement.png)
+
+### Supporting Schedules
+![Supporting Schedules](screenshots/Supporting%20Schedules.png)
+
+### Charts and Graphs
+![Charts and Graphs](screenshots/Charts%20and%20Graphs.png)
