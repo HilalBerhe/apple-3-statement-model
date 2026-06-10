@@ -1,5 +1,3 @@
-# apple-3-statement-model
-Apple 3-statement financial model with income statement, balance sheet, cash flow statement, supporting schedules, and charts.
 # Apple 3-Statement Financial Model
 
 This project is a 3-statement financial model for Apple Inc. built in Excel. The model includes historical financial data, forecast assumptions, projected financial statements, supporting schedules, and charts.
